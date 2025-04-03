@@ -29,10 +29,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.facebook.com/share/188BC5NfUN/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
@@ -47,9 +43,15 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img src="https://raw.githubusercontent.com/Mohraieel-Nasser/Mohraieel-Nasser/output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohraieel-Nasser/Mohraieel-Nasser/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohraieel-Nasser/Mohraieel-Nasser/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohraieel-Nasser/Mohraieel-Nasser/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
